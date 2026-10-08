@@ -10,7 +10,7 @@ Customers booking aesthetic or skin care clinic appointments on phones and deskt
 
 ## Product Purpose
 
-Offer a three-step journey: choose a clinic, choose an available appointment, enter contact details. Share live availability and bookings with a protected admin panel. Deploy React, Netlify Functions, and managed Postgres within free-plan allowances for a small demo.
+Offer a conversational booking journey: type a clinic, select an available date and time from an interactive calendar sent inside chat, and provide contact details one reply at a time. A final typed confirmation creates the booking. Share live availability and bookings with a protected admin panel. Deploy React, Netlify Functions, and managed Postgres within free-plan allowances for a small demo.
 
 ## Brand Personality
 

@@ -18,7 +18,7 @@ Wide desktop booking shell with a persistent narrative and appointment summary o
 
 ## Components
 
-Outlined clinic choice rows with integrated abstract line artwork. Compact progress indicator. Calendar date buttons with dots for availability, strong selected state, and explicit unavailable labels. Native labeled form controls. Olive primary actions; low-emphasis secondary actions. Inline admin editor and action confirmations.
+Customer booking uses a scrollable conversation, plain assistant messages, pale olive customer replies, a fixed composer, and a persistent appointment summary. The assistant sends an interactive calendar and available time buttons within a message. Picking a time adds the appointment choice as a customer reply. Earlier calendars remain visible but inactive. Other steps use typed replies, with browser autofill for contact details. Olive primary actions; low-emphasis secondary actions. Admin retains its calendar, inline availability editor, and action confirmations.
 
 ## Motion
 

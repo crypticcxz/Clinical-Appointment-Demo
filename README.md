@@ -20,8 +20,9 @@ Local demo admin: `login@admin.com`, password `admin123`. The login screen can f
 ## Features
 
 - Aesthetic and skin care clinic selection.
-- Interactive calendar with clinic-specific availability and 30-minute slots.
+- Scrollable booking chat with typed clinic and contact replies, an interactive calendar and time buttons sent within an assistant message, live availability, and a final confirmation before booking.
 - Browser autofill and optional device-local contact details with a forget action.
+- Type `help` for edit commands, `next month` to browse dates, `use saved details` when asked for your name, and `forget saved details` to clear browser storage. The booking assistant uses deterministic parsing and does not require an AI service.
 - Booking confirmation, reference, and downloadable calendar event.
 - Protected `/admin` login, signed HttpOnly session cookies, persistent login and booking rate limits.
 - Open appointment slots, block or reopen a slot, search customer bookings, reschedule within the same clinic, or cancel a booking.
