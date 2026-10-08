@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+.env
+.env.*
+!.env.example
+.local/
+.netlify/
+.impeccable/
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
